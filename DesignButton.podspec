@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "DesignButton"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of DesignButton."
+  spec.summary      = "DesignButton Framework is a framework which provide normal desgin through storyboard without write a single line of code."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
