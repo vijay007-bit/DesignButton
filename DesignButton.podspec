@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  For simple uibutton design without any code.
+  For simple uibutton design without any code.DesignButton Framework is a framework which provide normal desgin through storyboard without write a single line of code.
                    DESC
 
   spec.homepage     = "https://github.com/vijay007-bit/DesignButton"
